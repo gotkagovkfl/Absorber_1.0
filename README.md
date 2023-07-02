@@ -23,11 +23,11 @@
 ---
 ## 3. 게임 이미지
 
-<img src="./referenceImgs/img_00_login.jpg"  width="300" height="200"/>
-<img src="./referenceImgs/img_01_lobby.jpg"  width="300" height="200"/>
-<img src="./referenceImgs/img_02_tutorial.jpg"  width="300" height="200"/>
-<img src="./referenceImgs/img_03_selectWeapon.jpg"  width="300" height="200"/>
-<img src="./referenceImgs/img_04_testWeapon.jpg"  width="300" height="200"/>
+<img src="./referenceImgs/img_00_login.png"  width="300" height="200"/>
+<img src="./referenceImgs/img_01_lobby.png"  width="300" height="200"/>
+<img src="./referenceImgs/img_02_tutorial.png"  width="300" height="200"/>
+<img src="./referenceImgs/img_03_selectWeapon.png"  width="300" height="200"/>
+<img src="./referenceImgs/img_04_testWeapon.png"  width="300" height="200"/>
 <img src="./referenceImgs/img_05_login.jpg"  width="300" height="200"/>
 <img src="./referenceImgs/img_06_login.jpg"  width="300" height="200"/>
 <img src="./referenceImgs/img_07_login.jpg"  width="300" height="200"/>
