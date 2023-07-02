@@ -23,23 +23,10 @@
 ---
 ## 3. 게임 이미지
 
-<img src="./referenceImgs/img_00_login.png"  width="300" height="200"/>
-<img src="./referenceImgs/img_01_lobby.png"  width="300" height="200"/>
-<img src="./referenceImgs/img_02_tutorial.png"  width="300" height="200"/>
-<img src="./referenceImgs/img_03_selectWeapon.png"  width="300" height="200"/>
-<img src="./referenceImgs/img_04_testWeapon.png"  width="300" height="200"/>
-<img src="./referenceImgs/img_05_enterStage1.png"  width="300" height="200"/>
-<img src="./referenceImgs/img_06_attackEnemy.png"  width="300" height="200"/>
-<img src="./referenceImgs/img_07_levelup.png"  width="300" height="200"/>
-<img src="./referenceImgs/img_08_enemies.png"  width="300" height="200"/>
-<img src="./referenceImgs/img_09_eliteEnemy.png"  width="300" height="200"/>
-<img src="./referenceImgs/img_10_strongerEnemy.png"  width="300" height="200"/>
-<img src="./referenceImgs/img_11_SpawnBoss.png"  width="300" height="200"/>
-<img src="./referenceImgs/img_12_SpawnBoss2.png"  width="300" height="200"/>
-<img src="./referenceImgs/img_13_BossStage.png"  width="300" height="200"/>
-<img src="./referenceImgs/img_14_Boss2Phase.png"  width="300" height="200"/>
-<img src="./referenceImgs/img_15_BossDie.png"  width="300" height="200"/>
-<img src="./referenceImgs/img_16_ClearStage.png"  width="300" height="200"/>
-<img src="./referenceImgs/img_17_enterPortal.png"  width="300" height="200"/>
-<img src="./referenceImgs/img_18_resultPage.png"  width="300" height="200"/>
-<img src="./referenceImgs/img_19_ranking.png"  width="300" height="200"/>
+<img src="./referenceImgs/img_00_login.png"  width="320" height="200"/> <img src="./referenceImgs/img_01_lobby.png"  width="320" height="200"/> <img src="./referenceImgs/img_02_tutorial.png"  width="320" height="200"/>
+<img src="./referenceImgs/img_03_selectWeapon.png"  width="320" height="200"/> <img src="./referenceImgs/img_04_testWeapon.png"  width="320" height="200"/> <img src="./referenceImgs/img_05_enterStage1.png"  width="320" height="200"/>
+<img src="./referenceImgs/img_06_attackEnemy.png"  width="320" height="200"/> <img src="./referenceImgs/img_07_levelup.png"  width="320" height="200"/> <img src="./referenceImgs/img_08_enemies.png"  width="320" height="200"/>
+<img src="./referenceImgs/img_09_eliteEnemy.png"  width="320" height="200"/> <img src="./referenceImgs/img_10_strongerEnemy.png"  width="320" height="200"/> <img src="./referenceImgs/img_11_SpawnBoss.png"  width="320" height="200"/>
+<img src="./referenceImgs/img_12_SpawnBoss2.png"  width="320" height="200"/> <img src="./referenceImgs/img_13_BossStage.png"  width="320" height="200"/> <img src="./referenceImgs/img_14_Boss2Phase.png"  width="320" height="200"/>
+<img src="./referenceImgs/img_15_BossDie.png"  width="320" height="200"/> <img src="./referenceImgs/img_16_ClearStage.png"  width="320" height="200"/> <img src="./referenceImgs/img_17_enterPortal.png"  width="320" height="200"/>
+<img src="./referenceImgs/img_18_resultPage.png"  width="320" height="200"/> <img src="./referenceImgs/img_19_ranking.png"  width="320" height="200"/> 
