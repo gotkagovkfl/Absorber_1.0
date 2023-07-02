@@ -16,7 +16,7 @@
 
 ---
 ## 2. 게임 시연 영상
-[![Youtube동영상](http://img.youtube.com/vi/gokN30XPb7c/0.jpg)](https://www.youtu.be/gokN30XPb7c)
+[![Youtube동영상](http://img.youtube.com/vi/gokN30XPb7c/0.jpg)](https://youtu.be/gokN30XPb7c)
 
 ---
 ## 3. 게임 이미지
