@@ -13,3 +13,5 @@
    다운로드 : [[GoogleDrive]](https://drive.google.com/drive/folders/18b3IWnpHgKpHyejyxoNvf44NM6ZmQIeO?usp=sharing).
 
    Original Repository : [[Git_Repo]](https://github.com/kookmin-sw/capstone-2023-49).
+
+   ---
