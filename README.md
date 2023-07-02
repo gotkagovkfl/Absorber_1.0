@@ -10,7 +10,7 @@
    
    최종수정 : 2023.06.16
 
-   다운로드 : [[GoogleDrive]](https://drive.google.com/drive/folders/18b3IWnpHgKpHyejyxoNvf44NM6ZmQIeO?usp=sharing).
+   다운로드 : [[GoogleDrive]](https://drive.google.com/drive/folders/18b3IWnpHgKpHyejyxoNvf44NM6ZmQIeO?usp=sharing). 다운로드 파일 압축 해제 후 Absorber.exe 실행
 
    Original Repository : [[Git_Repo]](https://github.com/kookmin-sw/capstone-2023-49).
 
@@ -30,3 +30,6 @@
 <img src="./referenceImgs/img_12_SpawnBoss2.png"  width="320" height="200"/> <img src="./referenceImgs/img_13_BossStage.png"  width="320" height="200"/> <img src="./referenceImgs/img_14_Boss2Phase.png"  width="320" height="200"/>
 <img src="./referenceImgs/img_15_BossDie.png"  width="320" height="200"/> <img src="./referenceImgs/img_16_ClearStage.png"  width="320" height="200"/> <img src="./referenceImgs/img_17_enterPortal.png"  width="320" height="200"/>
 <img src="./referenceImgs/img_18_resultPage.png"  width="320" height="200"/> <img src="./referenceImgs/img_19_ranking.png"  width="320" height="200"/> 
+
+---
+## 4. 역할
