@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Wall
+  - Projectile
+  - Boss
+  - DropItem
+  - GoodProj
+  - exp
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -14,13 +21,13 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - Player
+  - Enemy
+  - Weapon
+  - Projectile
+  - GoodProjectile
+  - Boss
   - 
   - 
   - 
@@ -40,4 +47,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Stage
+    uniqueID: 663866975
+    locked: 0
+  - name: Entity
+    uniqueID: 2657666093
+    locked: 0
+  - name: Effect
+    uniqueID: 1666049083
     locked: 0
