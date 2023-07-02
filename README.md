@@ -1,6 +1,6 @@
 # Absorber_1.0
 
-1. 프로젝트 소개
+##1. 프로젝트 소개
 
    장    르 : 뱀서라이크, 핵앤슬래시, 로그라이크
 
@@ -14,4 +14,11 @@
 
    Original Repository : [[Git_Repo]](https://github.com/kookmin-sw/capstone-2023-49).
 
-   ---
+---
+## 2. 게임 이미지
+
+<img src="./pagesource/1.jpg"  width="300" height="200"/> <img src="./pagesource/2.png"  width="300" height="200"/>
+
+---
+## 3. 게임 시연 영상
+[![](http://img.youtube.com/vi/h8oYjLvz88o/0.jpg)](https://www.youtube.com/watch?v=h8oYjLvz88o&ab_channel=%EC%8B%A0%ED%9A%A8%EC%B0%BD)
