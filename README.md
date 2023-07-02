@@ -18,7 +18,28 @@
 ## 2. 게임 시연 영상
 [![Youtube동영상](http://img.youtube.com/vi/gokN30XPb7c/0.jpg)](https://youtu.be/gokN30XPb7c)
 
+이미지 클릭시 유튜브 영상이 재생됩니다.
+
 ---
 ## 3. 게임 이미지
 
-<img src="./pagesource/1.jpg"  width="300" height="200"/> <img src="./pagesource/2.png"  width="300" height="200"/>
+<img src="./referenceImgs/img_00_login.jpg"  width="300" height="200"/>
+<img src="./referenceImgs/img_01_lobby.jpg"  width="300" height="200"/>
+<img src="./referenceImgs/img_02_tutorial.jpg"  width="300" height="200"/>
+<img src="./referenceImgs/img_03_selectWeapon.jpg"  width="300" height="200"/>
+<img src="./referenceImgs/img_04_testWeapon.jpg"  width="300" height="200"/>
+<img src="./referenceImgs/img_05_login.jpg"  width="300" height="200"/>
+<img src="./referenceImgs/img_06_login.jpg"  width="300" height="200"/>
+<img src="./referenceImgs/img_07_login.jpg"  width="300" height="200"/>
+<img src="./referenceImgs/img_08_login.jpg"  width="300" height="200"/>
+<img src="./referenceImgs/img_09_login.jpg"  width="300" height="200"/>
+<img src="./referenceImgs/img_10_login.jpg"  width="300" height="200"/>
+<img src="./referenceImgs/img_11_login.jpg"  width="300" height="200"/>
+<img src="./referenceImgs/img_12_login.jpg"  width="300" height="200"/>
+<img src="./referenceImgs/img_13_login.jpg"  width="300" height="200"/>
+<img src="./referenceImgs/img_14_login.jpg"  width="300" height="200"/>
+<img src="./referenceImgs/img_15_login.jpg"  width="300" height="200"/>
+<img src="./referenceImgs/img_16_login.jpg"  width="300" height="200"/>
+<img src="./referenceImgs/img_17_login.jpg"  width="300" height="200"/>
+<img src="./referenceImgs/img_18_login.jpg"  width="300" height="200"/>
+<img src="./referenceImgs/img_19_login.jpg"  width="300" height="200"/>
