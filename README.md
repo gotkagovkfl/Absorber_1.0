@@ -15,7 +15,7 @@
    Original Repository : [[Git_Repo]](https://github.com/kookmin-sw/capstone-2023-49).
 
 ---
-## 2. 게임 시연 영상
+## 2. 플레이 영상
 [![Youtube동영상](http://img.youtube.com/vi/gokN30XPb7c/0.jpg)](https://youtu.be/gokN30XPb7c)
 
 이미지 클릭시 유튜브 영상이 재생됩니다.
