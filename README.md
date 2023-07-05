@@ -15,7 +15,7 @@
    Original Repository : [[Git_Repo]](https://github.com/kookmin-sw/capstone-2023-49).
 
 ---
-## 2. 게임 시연 영상
+## 2. 플레이 영상
 [![Youtube동영상](http://img.youtube.com/vi/gokN30XPb7c/0.jpg)](https://youtu.be/gokN30XPb7c)
 
 이미지 클릭시 유튜브 영상이 재생됩니다.
@@ -23,13 +23,13 @@
 ---
 ## 3. 게임 이미지
 
-<img src="./referenceImgs/img_00_login.png"  width="320" height="200"/> <img src="./referenceImgs/img_01_lobby.png"  width="320" height="200"/> <img src="./referenceImgs/img_02_tutorial.png"  width="320" height="200"/>
-<img src="./referenceImgs/img_03_selectWeapon.png"  width="320" height="200"/> <img src="./referenceImgs/img_04_testWeapon.png"  width="320" height="200"/> <img src="./referenceImgs/img_05_enterStage1.png"  width="320" height="200"/>
-<img src="./referenceImgs/img_06_attackEnemy.png"  width="320" height="200"/> <img src="./referenceImgs/img_07_levelup.png"  width="320" height="200"/> <img src="./referenceImgs/img_08_enemies.png"  width="320" height="200"/>
-<img src="./referenceImgs/img_09_eliteEnemy.png"  width="320" height="200"/> <img src="./referenceImgs/img_10_strongerEnemy.png"  width="320" height="200"/> <img src="./referenceImgs/img_11_SpawnBoss.png"  width="320" height="200"/>
-<img src="./referenceImgs/img_12_SpawnBoss2.png"  width="320" height="200"/> <img src="./referenceImgs/img_13_BossStage.png"  width="320" height="200"/> <img src="./referenceImgs/img_14_Boss2Phase.png"  width="320" height="200"/>
-<img src="./referenceImgs/img_15_BossDie.png"  width="320" height="200"/> <img src="./referenceImgs/img_16_ClearStage.png"  width="320" height="200"/> <img src="./referenceImgs/img_17_enterPortal.png"  width="320" height="200"/>
-<img src="./referenceImgs/img_18_resultPage.png"  width="320" height="200"/> <img src="./referenceImgs/img_19_ranking.png"  width="320" height="200"/> 
+<img src="./referenceImgs/img_00_login.png"  width="320" height="180"/> <img src="./referenceImgs/img_01_lobby.png"  width="320" height="180"/> <img src="./referenceImgs/img_02_tutorial.png"  width="320" height="180"/>
+<img src="./referenceImgs/img_03_selectWeapon.png"  width="320" height="180"/> <img src="./referenceImgs/img_04_testWeapon.png"  width="320" height="180"/> <img src="./referenceImgs/img_05_enterStage1.png"  width="320" height="180"/>
+<img src="./referenceImgs/img_06_attackEnemy.png"  width="320" height="180"/> <img src="./referenceImgs/img_07_levelup.png"  width="320" height="180"/> <img src="./referenceImgs/img_08_enemies.png"  width="320" height="180"/>
+<img src="./referenceImgs/img_09_eliteEnemy.png"  width="320" height="180"/> <img src="./referenceImgs/img_10_strongerEnemy.png"  width="320" height="180"/> <img src="./referenceImgs/img_11_SpawnBoss.png"  width="320" height="180"/>
+<img src="./referenceImgs/img_12_SpawnBoss2.png"  width="320" height="180"/> <img src="./referenceImgs/img_13_BossStage.png"  width="320" height="180"/> <img src="./referenceImgs/img_14_Boss2Phase.png"  width="320" height="180"/>
+<img src="./referenceImgs/img_15_BossDie.png"  width="320" height="180"/> <img src="./referenceImgs/img_16_ClearStage.png"  width="320" height="180"/> <img src="./referenceImgs/img_17_enterPortal.png"  width="320" height="180"/>
+<img src="./referenceImgs/img_18_resultPage.png"  width="320" height="180"/> <img src="./referenceImgs/img_19_ranking.png"  width="320" height="180"/> 
 
 ---
 ## 4. 역할
