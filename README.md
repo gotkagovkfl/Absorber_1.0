@@ -1,5 +1,5 @@
 # Absorber_1.0
-![title](https://github.com/gotkagovkfl/referenceImgs/title.png)
+<img src="./refernceImgs/title.png"  width="800" height="300"/> 
 
 ---
 ## 1. 프로젝트 소개
