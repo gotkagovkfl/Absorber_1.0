@@ -1,4 +1,6 @@
-# Absorber_1.0
+![title](https://github.com/gotkagovkfl/Absorber_1.0/assets/110381888/d52a9562-b935-4fd3-9ae9-a89463e777f8)# Absorber_1.0
+
+<img src="./referenceImgs/title.png"  width="80" height="300"/> 
 ---
 ## 1. 프로젝트 소개
 
